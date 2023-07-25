@@ -1,4 +1,4 @@
-<body style="background-color: white;">
+
 #Dtat Science 
 ## What is Data Science?
 **Dtat Science** is *multidisciplinary field* that combines statistics, computer science, and domain knowlwdge.
